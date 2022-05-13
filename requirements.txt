@@ -1,0 +1,2 @@
+-i http://mirrors.aliyun.com/pypi/simple/
+Django~=1.11
